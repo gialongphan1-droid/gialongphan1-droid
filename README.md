@@ -13,7 +13,20 @@ I'm a student based in Ho Chi Minh City, Vietnam. I'm interested in the followin
 
 ### 🚀 Featured Projects
 
-<p align="center"><a href="https://github.com/gialongphan1-droid/titanic-survival-prediction"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gialongphan1-droid&repo=titanic-survival-prediction&hide_border=true&bg_color=1A1626&title_color=C4A7FF&text_color=D8CDEE&icon_color=C4A7FF" width="49%"/></a><a href="https://github.com/gialongphan1-droid/gialongphan_toDoX"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gialongphan1-droid&repo=gialongphan_toDoX&hide_border=true&bg_color=1F1018&title_color=F778BA&text_color=EDD1E0&icon_color=F778BA" width="49%"/></a><br/><a href="https://github.com/gialongphan1-droid/web-ban-nuoc-ngot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gialongphan1-droid&repo=web-ban-nuoc-ngot&hide_border=true&bg_color=0F1726&title_color=58A6FF&text_color=CDD9EE&icon_color=58A6FF" width="49%"/></a><a href="https://github.com/gialongphan1-droid/trang-allure-shop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gialongphan1-droid&repo=trang-allure-shop&hide_border=true&bg_color=0F1F14&title_color=7EE787&text_color=D1EDD5&icon_color=7EE787" width="49%"/></a><br/><a href="https://github.com/gialongphan1-droid/Dragonfire-Cinema"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gialongphan1-droid&repo=Dragonfire-Cinema&hide_border=true&bg_color=1F1010&title_color=FF6B6B&text_color=EECFCF&icon_color=FF6B6B" width="49%"/></a></p>
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td><a href="https://github.com/gialongphan1-droid/titanic-survival-prediction"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gialongphan1-droid&repo=titanic-survival-prediction&hide_border=true&bg_color=1A1626&title_color=C4A7FF&text_color=D8CDEE&icon_color=C4A7FF" /></a></td>
+<td><a href="https://github.com/gialongphan1-droid/gialongphan_toDoX"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gialongphan1-droid&repo=gialongphan_toDoX&hide_border=true&bg_color=1F1018&title_color=F778BA&text_color=EDD1E0&icon_color=F778BA" /></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/gialongphan1-droid/web-ban-nuoc-ngot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gialongphan1-droid&repo=web-ban-nuoc-ngot&hide_border=true&bg_color=0F1726&title_color=58A6FF&text_color=CDD9EE&icon_color=58A6FF" /></a></td>
+<td><a href="https://github.com/gialongphan1-droid/trang-allure-shop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gialongphan1-droid&repo=trang-allure-shop&hide_border=true&bg_color=0F1F14&title_color=7EE787&text_color=D1EDD5&icon_color=7EE787" /></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/gialongphan1-droid/Dragonfire-Cinema"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gialongphan1-droid&repo=Dragonfire-Cinema&hide_border=true&bg_color=1F1010&title_color=FF6B6B&text_color=EECFCF&icon_color=FF6B6B" /></a></td>
+<td></td>
+</tr>
+</table>
 
 ---
 
