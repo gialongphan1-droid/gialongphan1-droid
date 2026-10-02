@@ -11,6 +11,15 @@ I'm a student based in Ho Chi Minh City, Vietnam. I'm interested in the followin
 
 ---
 
+### 🚀 Featured Projects
+
+|  |  |
+|---|---|
+| [![titanic-survival-prediction](https://github-readme-stats.vercel.app/api/pin/?username=gialongphan1-droid&repo=titanic-survival-prediction&theme=tokyonight&hide_border=true)](https://github.com/gialongphan1-droid/titanic-survival-prediction) | [![gialongphan_toDoX](https://github-readme-stats.vercel.app/api/pin/?username=gialongphan1-droid&repo=gialongphan_toDoX&theme=tokyonight&hide_border=true)](https://github.com/gialongphan1-droid/gialongphan_toDoX) |
+| [![web-ban-nuoc-ngot](https://github-readme-stats.vercel.app/api/pin/?username=gialongphan1-droid&repo=web-ban-nuoc-ngot&theme=tokyonight&hide_border=true)](https://github.com/gialongphan1-droid/web-ban-nuoc-ngot) | |
+
+---
+
 ### 📊 GitHub Stats
 
 ![Long's GitHub stats](https://github-readme-stats.vercel.app/api?username=gialongphan1-droid&show_icons=true&theme=tokyonight&hide_border=true)
@@ -28,18 +37,3 @@ I'm a student based in Ho Chi Minh City, Vietnam. I'm interested in the followin
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-
-<!--
-**gialongphan1-droid/gialongphan1-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
