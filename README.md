@@ -16,7 +16,8 @@ I'm a student based in Ho Chi Minh City, Vietnam. I'm interested in the followin
 |  |  |
 |---|---|
 | [![titanic-survival-prediction](https://github-readme-stats.vercel.app/api/pin/?username=gialongphan1-droid&repo=titanic-survival-prediction&theme=tokyonight&hide_border=true)](https://github.com/gialongphan1-droid/titanic-survival-prediction) | [![gialongphan_toDoX](https://github-readme-stats.vercel.app/api/pin/?username=gialongphan1-droid&repo=gialongphan_toDoX&theme=tokyonight&hide_border=true)](https://github.com/gialongphan1-droid/gialongphan_toDoX) |
-| [![web-ban-nuoc-ngot](https://github-readme-stats.vercel.app/api/pin/?username=gialongphan1-droid&repo=web-ban-nuoc-ngot&theme=tokyonight&hide_border=true)](https://github.com/gialongphan1-droid/web-ban-nuoc-ngot) | |
+| [![web-ban-nuoc-ngot](https://github-readme-stats.vercel.app/api/pin/?username=gialongphan1-droid&repo=web-ban-nuoc-ngot&theme=tokyonight&hide_border=true)](https://github.com/gialongphan1-droid/web-ban-nuoc-ngot) | [![trang-allure-shop](https://github-readme-stats.vercel.app/api/pin/?username=gialongphan1-droid&repo=trang-allure-shop&theme=tokyonight&hide_border=true)](https://github.com/gialongphan1-droid/trang-allure-shop) |
+| [![Dragonfire-Cinema](https://github-readme-stats.vercel.app/api/pin/?username=gialongphan1-droid&repo=Dragonfire-Cinema&theme=tokyonight&hide_border=true)](https://github.com/gialongphan1-droid/Dragonfire-Cinema) | |
 
 ---
 
